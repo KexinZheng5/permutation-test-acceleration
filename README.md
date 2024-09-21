@@ -20,5 +20,5 @@ Data of the following models need to be added as the following directory:
 
 | Dataset | Model |  Path  | Source |
 |:----- |:-----|:--------:|------:|
-| mice data | BANNs / mvBANNs   | `BANNs/_Data/mice` | [Data](https://www.dropbox.com/scl/fo/y5wb6qk36v8perehm6zar/AFBR4hdlJQy51J9e7jYYpwA/Data?dl=0&e=2&rlkey=6mjrm7fhgdiyoauu76xerytnu&subfolder_nav_tracking=1) |
+| mice data | BANNs / mvBANNs   | `BANNs/_Data/mice_source` | [Data](https://www.dropbox.com/scl/fo/y5wb6qk36v8perehm6zar/AFBR4hdlJQy51J9e7jYYpwA/Data?dl=0&e=2&rlkey=6mjrm7fhgdiyoauu76xerytnu&subfolder_nav_tracking=1) |
 | prostate cancer | PNET   | `PNET/_Source/_database` | [_database.zip](https://zenodo.org/records/5163213) |
